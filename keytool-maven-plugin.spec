@@ -8,7 +8,7 @@ Summary:          A plugin that wraps the keytool program and allows to manipula
 License:          MIT and ASL 2.0
 
 # http://mojo.codehaus.org/keytool-maven-plugin/
-URL:              http://mojo.codehaus.org/%{name}/
+URL:              https://mojo.codehaus.org/%{name}/
 # svn export http://svn.codehaus.org/mojo/tags/keytool-maven-plugin-1.0/ keytool-maven-plugin-1.0
 # tar caf keytool-maven-plugin-1.0.tar.xz keytool-maven-plugin-1.0
 Source0:          %{name}-%{version}.tar.xz
